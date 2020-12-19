@@ -1,4 +1,4 @@
-reciepy list
+recipes list
 
 kheer
 jamun
@@ -6,4 +6,5 @@ jamun
 chicken
 
 
-thank you 
+thank you
+srinidhi cafe
